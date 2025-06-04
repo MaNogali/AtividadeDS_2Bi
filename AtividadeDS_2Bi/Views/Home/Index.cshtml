@@ -1,0 +1,28 @@
+﻿@model AtividadeDS_2Bi.Models.Login
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="text-center"> 
+    <h1 class="display-4">Login</h1>
+    @using (Html.BeginForm("Principal","Home", FormMethod.Post))
+    {
+        <fieldset>
+            <legend>Preencha os dados</legend>
+            <div>
+                @Html.LabelFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Usuario)
+            </div>
+            <div>
+                @Html.LabelFor(x => x.Password)
+            </div>
+            <div>
+                @Html.EditorFor(x => x.Password)
+            </div>
+            <p>
+            <p><input type="submit" name="" value="Enviar" /></p></p>
+        </fieldset>
+    }
+</div>
