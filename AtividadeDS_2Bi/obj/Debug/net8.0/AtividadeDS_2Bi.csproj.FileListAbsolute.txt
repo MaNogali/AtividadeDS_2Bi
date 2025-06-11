@@ -27,3 +27,33 @@ C:\Users\2ds\Desktop\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\refint\Ati
 C:\Users\2ds\Desktop\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.pdb
 C:\Users\2ds\Desktop\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.genruntimeconfig.cache
 C:\Users\2ds\Desktop\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\ref\AtividadeDS_2Bi.dll
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\appsettings.Development.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\appsettings.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.staticwebassets.endpoints.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.staticwebassets.runtime.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.exe
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.deps.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.runtimeconfig.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.dll
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\bin\Debug\net8.0\AtividadeDS_2Bi.pdb
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.GeneratedMSBuildEditorConfig.editorconfig
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.AssemblyInfoInputs.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.AssemblyInfo.cs
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.MvcApplicationPartsAssemblyInfo.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.RazorAssemblyInfo.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.RazorAssemblyInfo.cs
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.sourcelink.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\scopedcss\bundle\AtividadeDS_2Bi.styles.css
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\scopedcss\projectbundle\AtividadeDS_2Bi.bundle.scp.css
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\staticwebassets.build.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\staticwebassets.development.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.dll
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\refint\AtividadeDS_2Bi.dll
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.pdb
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\AtividadeDS_2Bi.genruntimeconfig.cache
+F:\2A-DS-PI\Marina e Lavinia\DS\AtividadeDS_2Bi\AtividadeDS_2Bi\obj\Debug\net8.0\ref\AtividadeDS_2Bi.dll

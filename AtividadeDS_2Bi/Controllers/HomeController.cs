@@ -18,6 +18,11 @@ namespace AtividadeDS_2Bi.Controllers
             return View();
         }
 
+        public IActionResult Principal()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

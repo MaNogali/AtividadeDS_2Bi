@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeDS_2Bi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98eb62fd47e25de52f60940d98f7ef3a6c34bedd")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeDS_2Bi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeDS_2Bi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

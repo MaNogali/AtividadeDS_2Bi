@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj": {}
+    "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj": {
+    "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj",
+        "projectUniqueName": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj",
         "projectName": "AtividadeDS_2Bi",
-        "projectPath": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj",
+        "projectPath": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj",
         "packagesPath": "C:\\Users\\2ds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\obj\\",
+        "outputPath": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

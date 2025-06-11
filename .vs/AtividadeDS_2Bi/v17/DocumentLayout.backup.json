@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\",
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|c:\\users\\2ds\\desktop\\atividadeds_2bi\\atividadeds_2bi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\atividadeds_2bi\\atividadeds_2bi\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|solutionrelative:atividadeds_2bi\\views\\home\\principal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\atividadeds_2bi\\atividadeds_2bi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|solutionrelative:atividadeds_2bi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\atividadeds_2bi\\atividadeds_2bi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|solutionrelative:atividadeds_2bi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|c:\\users\\2ds\\desktop\\atividadeds_2bi\\atividadeds_2bi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|f:\\2a-ds-pi\\marina e lavinia\\ds\\atividadeds_2bi\\atividadeds_2bi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA2600AC-6FB5-4C56-815B-9C396AC41B3B}|AtividadeDS_2Bi\\AtividadeDS_2Bi.csproj|solutionrelative:atividadeds_2bi\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,10 +31,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Principal.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Principal.cshtml",
+              "RelativeDocumentMoniker": "AtividadeDS_2Bi\\Views\\Home\\Principal.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Principal.cshtml",
+              "RelativeToolTip": "AtividadeDS_2Bi\\Views\\Home\\Principal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T12:22:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AtividadeDS_2Bi\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AtividadeDS_2Bi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T12:20:07.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AtividadeDS_2Bi\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -35,16 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Models\\Login.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Models\\Login.cs",
               "RelativeDocumentMoniker": "AtividadeDS_2Bi\\Models\\Login.cs",
-              "ToolTip": "C:\\Users\\2ds\\Desktop\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Models\\Login.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Marina e Lavinia\\DS\\AtividadeDS_2Bi\\AtividadeDS_2Bi\\Models\\Login.cs",
               "RelativeToolTip": "AtividadeDS_2Bi\\Models\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:12:52.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T13:12:52.085Z"
             }
           ]
         }
